@@ -1,0 +1,18 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module", 
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20"
+  }
+}
